@@ -1,0 +1,14 @@
+
+# dependencies
+/node_modules
+
+# testing
+/coverage
+
+# production
+/build
+
+.vscode/
+
+.DS_Store
+*/.DS_Store

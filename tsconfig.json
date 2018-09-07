@@ -1,0 +1,24 @@
+{
+    "compilerOptions": {
+        "experimentalDecorators": true,
+        "allowJs": true,
+        "baseUrl": ".",
+        "paths": {
+            "Util/*": [
+                "./src/utils/*"
+            ],
+            "Components/*": [
+                "./src/components/*"
+            ],
+            "Assets/*": [
+                "./src/assets/*"
+            ],
+            "Constant/*": [
+                "./src/constant/*"
+            ],
+            "Common/*": [
+                "./src/common/*"
+            ]
+        }
+    }
+}
